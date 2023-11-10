@@ -1,5 +1,7 @@
 # Alzheimer Detection Classification using ResNet50
 
+<img width="793" alt="Screenshot 2023-11-10 at 10 31 38 AM" src="https://github.com/Daanish-Hindustani/ResNet50-Alzheimer-Detection/assets/134811343/9e143a18-d24e-4fde-9615-a637024f396f">
+
 ## Overview
 
 This repository contains code for training and evaluating a convolutional neural network (CNN) based on the ResNet50 architecture for Alzheimer detection. The model is trained on a dataset comprising 6400 images, categorized into four classes: 'Mild_Demented', 'Moderate_Demented', 'Non_Demented', and 'Very_Mild_Demented'.
