@@ -6,6 +6,10 @@
 
 This repository contains code for training and evaluating a convolutional neural network (CNN) based on the ResNet50 architecture for Alzheimer detection. The model is trained on a dataset comprising 6400 images, categorized into four classes: 'Mild_Demented', 'Moderate_Demented', 'Non_Demented', and 'Very_Mild_Demented'.
 
+## Motivation Behind the Project
+
+The motivation for the Alzheimer Detection Classification project is driven by a curiosity-driven exploration of learning a new CNN architecture, specifically ResNet50. The goal is to apply advanced deep learning techniques to contribute meaningfully to medical research and improve the early detection of Alzheimer's Disease. The project aligns with the broader trend of utilizing AI in healthcare, providing an opportunity for personal growth and skill development in the realms of medical image analysis and deep learning. Ultimately, the project aims to leverage technology for positive impacts on patient outcomes and advance our understanding of neurodegenerative conditions.
+
 ## Model Architecture
 
 The neural network leverages the ResNet50 architecture, a deep residual network known for its ability to train very deep neural networks successfully. ResNet50 consists of 50 layers and introduces the concept of residual learning, which helps mitigate the vanishing gradient problem.
